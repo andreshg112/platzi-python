@@ -1,2 +1,4 @@
 .vscode
-numeros.txt
+/numeros.txt
+venv
+__pycache__
